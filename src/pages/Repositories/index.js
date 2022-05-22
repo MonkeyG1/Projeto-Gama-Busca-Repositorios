@@ -30,4 +30,4 @@ export default function Repositories() {
       <S.LinkHome to="/">Voltar</S.LinkHome>
     </S.Container>
   )
-} 
+}
